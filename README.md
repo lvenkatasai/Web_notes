@@ -404,7 +404,7 @@ If you encounter any issues or have questions:
         <span>🎉</span> Happy Note Taking! <span>🎉</span>
     </h2>
     <p style="color: #343a40; font-size: 1.1rem; margin: 0;">
-        Made with <span style="color: #ff416c;">❤️</span> by the development team
+        Made by <span style="color: #ff416c;"></span> L Venkatasai
     </p>
 </div>
 
